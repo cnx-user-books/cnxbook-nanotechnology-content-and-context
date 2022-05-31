@@ -1,0 +1,537 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Nanocars and the Development of Molecular Manufacturing</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2386b9bc-455c-4cc2-808a-e15e93aa5d4f</md:uuid>
+</metadata>
+<content>
+<note id="idp1237200">This module was developed as part of a Rice University Class called "<link url="http://frazer.rice.edu/nanotech">Nanotechnology: Content and Context</link>" initially funded by the National Science Foundation under Grant No. EEC-0407237.  It was conceived, researched, written and edited by students in the Fall 2005 version of the class, and reviewed by participating professors.</note>
+
+
+<para id="id7348904">In the late decades of the 20th century, the
+field of molecular manufacturing developed as materials and methods
+arose that facilitated development of new, useful designs. In this
+chapter, we take a look at the development of molecular manufacturing,
+where it stands today, and its some aspects of its future. Since the
+invention of the Scanning Tunneling Microscope in 1981, molecular
+manufacturing has reached various milestones that we will discuss in
+this section. In addition, we will take a look at a specific molecule
+that was synthesized by Rice University scientists that incorporated
+previously established molecular designs and mechanisms. This molecule
+takes molecular manufacturing further down the path of
+development.</para>
+
+<para id="id7348937">In 2005, Rice University scientists Dr. James
+Tour, Kevin Kelly, and others built upon established milestones to
+reach new understandings of engineered, deliberate molecular
+motion. The team of scientists designed a molecular structure
+consisting of a chassis and axle system covalently bound to four
+separate Buckminsterfullerene (C60) molecules (figure 1) that
+facilitates rolling translational motion. The synthesis, structure,
+mobility, and observation of the nanocar will be discussed in
+subsequent sections of this chapter. But first, lets take a look at
+the developments in molecular manufacturing preceding the discovery of
+nanocar 1.</para>
+
+    <figure id="id7348968">
+      <media id="idm6516960" alt=""><image src="../../media/Graphic1" mime-type="image/png"/></media> <caption>Space filling
+      model of nanocar 1.  The chassis and axles consist of oligo
+      (phenylene ethynylene) (OPE) molecules along with 4 wheels that
+      each consist of single C60 molecules. The molecule is capable of
+      undergoing translational motion, perpendicular to the axles
+      (shown by the blue arrow).  Picture courtesy of Rice University Office
+      of Media Relations.  Reprinted with kind permission from
+      Dr. Kevin Kelly.</caption>
+    </figure>
+
+<section id="id7349089">
+<title>A Brief Review of Early Advances in Nanoscale Design</title>
+
+      <para id="id7349100">To understand how the nanocar fits into the
+larger scheme of molecular manufacturing, we will review some
+instrumental developments in molecular manufacturing that jump-started
+the field. We will also introduce a couple of molecular components
+that facilitate the design of mobile molecules—bearings and
+axles.</para>
+
+<para id="id7349129"><title>Scanning Tunneling Microscopy Introduces a New Frontier</title>
+
+
+The invention of the Scanning Tunneling Microscope (STM) by IBM’s Gerd
+Binning and Heinrich Rohrer in 1981 was vital to the development of
+molecular manufacturing and nanoscale design. The function of the STM
+is two-fold. First of all, STM imaging allowed scientists to visualize
+atomic surfaces.  Secondly, STM tips are capable of directly
+manipulating individual atoms and molecules. Both of these functions
+have been instrumental in nanoscale design, and were both employed by
+the scientists involved in the design and observation of nanocar
+1.</para>
+
+      <para id="id7349149">Early advances in nanoscale design came in
+the form of direct demonstration of the movement of single atoms and
+molecules with the use of an STM. The first of these demonstrations
+came in 1989 when IBM fellow Don Eigler spelled out the letters "I B
+M" on a nickel surface using 35 xenon atoms (figure 2, left). At first
+glance, the act seemed insignificant, criticized by many as merely a
+stunt. However, at the heart of the demonstration lies the fact that
+Eigler was able to move single atoms that could not even be observed
+less than a decade before. This demonstration was a step forward for
+the development of nanoscale design, and would be followed by
+subsequent developments. However, a complication of Eigler’s method
+was that it required experimental temperatures near absolute zero—an
+unpractical temperature for the design of useful products.</para>
+
+      <figure id="id7349178"><media id="idm6056208" alt=""><image src="../../media/Graphic2-b63d.jpg" mime-type="image/jpeg"/></media> <caption>Direct Manipulation of Single
+	Atoms and Molecules.  <emphasis>Left:</emphasis> IBM
+	scientists moved 35 individual xenon atoms on a nickel surface
+	to spell out the letters "I B M".  This demonstration
+	represented a vital step in the development of nanoscale
+	design and molecular manufacturing, as Eigler demonstrated
+	that individual atoms could be manipulated using an STM.
+	<emphasis>Right:</emphasis> IBM scientists placed one hundred
+	and ten buckminsterfullerene (C60) molecules in eleven
+	separate wells on a copper surface and manipulated them to
+	serve as a traditional abacus. The demonstration was performed
+	at room temperature, and indicated the capability to move
+	individual molecules using an STM.  Images from <link url="http://www.zurich.ibm.com/">IBM Zurich Research
+	Laboratory.</link></caption>
+      </figure>
+
+
+<para id="id7349290">The second demonstration also came from IBM
+scientists and overcame the limitations of the previous experiment.
+In 1996, IBM’s Zurich laboratory produced a nanoscale abacus that
+consisted of individual C60 molecules that functioned as beads that
+could be pushed back and forth along eleven separate rails on a
+copper surface (figure 2, right). This time around, the components were
+manipulated at room temperature—a practical temperature for the
+design and application of nanoscale products. This demonstration
+represented another vital step in the advancement of nanoscale
+design. It indicated that molecules could be manipulated at room
+temperature and constructed into a functional design—also known as
+‘bottom-up’ design.</para>
+</section>
+
+    <section id="id7465774">
+      <title>Molecular Building Blocks</title>
+
+      <para id="id7465783">Since the invention of the STM, the field
+of molecular manufacturing has produced various molecules that serve
+as molecular building blocks for more complexly designed molecules
+that are emerging today. The set of building blocks necessary for the
+development of a design on any scale depends on the targeted function
+of that design. For example, in manufacturing an automobile, the
+necessary materials include bearings, axles, and various other
+components. The same idea applies to nanoscale design. Depending on
+the target function of a molecule, it is necessary to use various
+components. Here, we take a look at some of the molecular building
+blocks required to synthesize mobile molecules. Keep in mind that
+these components, and various others, will be used to describe the
+structure and function of nanocar 1.</para>
+      
+<para id="id7465804">The detailed structure and chemistry of the
+various systems used in the design and synthesis of molecular
+components is beyond the scope of this text. However, we will provide
+a general overview of a few molecular structures that are instrumental
+in the design of mobile, functional molecules. With the introduction
+of each molecular mechanical component, we will provide comparisons
+with its macroscopic counterpart in order to clarify the functionality
+of each system.</para>
+
+
+<para id="bearings"><title>Bearings</title>
+ Bearings are structures that function to reduce
+energy loss to friction during various processes. Bearings are found
+in almost every rotating part of your car and facilitate smooth
+rotation of parts from the wheel up to the transmission.  Researchers
+have investigated various systems to replicate this function on the
+molecular level. Here we take a look at the molecular bearing designed
+by scientists working in Japan. A monolayer of tightly packed C60
+molecules was sandwiched between two single sheets of graphite to form
+a molecular bearing. The structure resulted in an ultra-lubricated
+system with zero frictional forces when the graphite sheets were moved
+along the rotating C60 molecules(figure 3).</para> 
+
+      <figure id="id7465869">
+	<media id="idm592048" alt=""><image src="../../media/Graphic3-89dc.jpg" mime-type="image/jpeg"/></media>
+	<caption>Molecular Bearings <emphasis>Left:</emphasis> The C60
+	molecular bearings consist of a single layer of tightly packed
+	C60 molecules to create a frictionless system of
+	sliding-translational motion of the graphite sheets. The
+	rotating C60 moleculesallow for smooth movement of the
+	graphite sheets.  <emphasis>Right:</emphasis> A ball bearing
+	that is used to facilitate reduced friction rotation of
+	wheels. The rotating metallic balls allow for smooth rotation
+	of the outside ring surrounding the balls.
+	</caption>
+      </figure>
+
+<para id="id7465996"><title>Axles</title>
+	Axles function to transfer mechanical energy
+to turn a specific object such as a wheel. An effective axle is
+characterized by two functions: 1) it must be able to rotate freely
+and 2) must be in a fixed, linear position. The axle must be able to
+rotate freely because its function is dependent on its ability to
+transfer mechanical energy to rotate an attached structure. In the
+case of an automobile, the axle functions to transfer energy generated
+by the engine to rotate the wheels of the vehicle. An axle must be in
+a fixed, linear position because it must provide enough support to
+withstand forces placed on it, such as the weight of a chassis. On the
+molecular scale, the two functions of an effective rotor are
+encompassed in the structure of a triple bond, as opposed to single or
+double bonds (figure 4). A single bond is able to rotate freely, but
+is not in a fixed linear position. On the other hand, double bonds are
+in a fixed position, but are unable to rotate.</para>
+
+
+      <figure id="id7466028">
+	<media id="idp936800" alt=""><image src="../../media/Graphic4-7ba7.jpg" mime-type="image/jpeg"/></media>
+	<caption>Molecular Axles: Here, bonds between benzene
+	molecules are used to illustrate the differences between
+	single, triple, and double bonds. The differences in the
+	characteristics of the three types covalent bonds described
+	above differentiate their functionality as molecular axles. An
+	axle must be fixed in a linear structure and be able to rotate
+	along the axis of the bond. A single bond (left) is able to
+	rotate, but does not provide a fixed angle and position. A
+	double bond (right) is fixed in a 180° angle, but is inhibited
+	from rotational motion. A triple bond (center) is both fixed
+	in a linear position and capable of rotating freely, therefore
+	the most viable option for a molecular axle.</caption>
+      </figure>
+
+
+<para id="id7466125">As you have observed, the link between structure
+and function is vital to designs on both the macro and nanoscale. The
+structures described here do not, by any means, encompass the
+countless molecular structures that are required for the synthesis of
+functional molecules, but serve only to provide a general idea of the
+types of designs involved in molecular manufacturing. With this brief
+introduction to molecular manufacturing we are prepared to examine a
+specific example of molecular manufacturing: nanocar 1.</para>
+</section>
+
+    <section id="id7466144">
+      <title>Design, Structure, and Function of Nanocar System</title>
+
+      <para id="id7466155">The structure of nanocars facilitates their
+function. Therefore, their structure and more importantly the precise,
+deliberate engineering of their structure through assembly and
+implementation represents vital progress in nanoscale design and
+molecular manufacturing. Studying the mechanics of rotors and motors
+from the bottom up, starting with the simplest molecules possible, the
+Tour group engineered nanocars as the first in a series of tools to
+test molecular mechanics and prove the viability of molecular
+design.</para> 
+
+      <para id="id7466171">Central to understanding the implications
+of the Tour Group research is an understanding of the structure of the
+nanocars—their design and their function. To best address the nanocar
+structure we will analyze its design and assembly in three components:
+the wheel, the chassis, and the surface it operates on.  As it turns
+out, each of these aspects is equally important in determining the
+functionality of the nanocar and is therefore the best way to analyze
+the structure of the nanocar system.</para> 
+
+      <para id="id7466202"><title>Wheels</title>
+	
+The driving characteristic of the wheel, if you will, is its ability
+to roll. Apart from this implicit necessity, the wheel must also be of
+a size that can be imaged with an STM. If a molecule is too big the
+STM cannot resolve it.  Likewise, if a molecule is too small the STM
+cannot discern it from its neighbors. A wheel must also be large
+enough to have ‘ground clearance’ whereby the wheel is of sufficient
+height or radius to elevate the chassis high enough above the
+operating surface to avoid molecular interactions. Ease of synthesis
+must also be considered in the selection of a wheel. A molecular wheel
+must be reactive enough to bond with its chassis in order to
+synthesize the molecule.</para>
+
+      <figure id="balls">
+	<media id="idm7178224" alt=""><image src="../../media/Graphic5-ea22.jpg" mime-type="image/jpeg"/></media>
+	<caption>Buckminsterfullerene compared to soccer ball.  The
+	alternating pentagonal and hexagonal cyclical bond structures
+	form a spherical shell reminiscent of a soccer ball. The
+	functional properties of the C60 molecule are a result of the
+	ordered bonding of the molecule.</caption>
+</figure>
+
+
+      <para id="id7466316">Clearly, there are many considerations that
+must be taken into account when choosing a wheel. The Tour Group at
+Rice University selected C60 as their wheel for their first
+nanocar. C60 is entirely composed of carbon with alternating
+pentagonal and hexagonal cyclical bond structures that form a
+spherical shell reminiscent of a soccer ball (figure 5). Ideally, this
+structure, under the right conditions, could roll with its compact
+surface and spherical shape. Furthermore, it is of a height that can
+be imaged with an STM and elevate the chassis to prevent interactions
+with the operating surface. In a subsequent section, we will learn
+more about how these concepts were tested and observed by the Tour
+Group.</para> 
+
+      <para id="id7466354">Although C60 is an attractive molecule to
+test rolling versus sliding motion at the molecular level, there are
+some disadvantages to its structure. The properties of C60 limit the
+synthesis of the nanocar molecule. In particular, the pi bonds of the
+molecule react with the palladium catalyst to interfere with chassis
+synthesis. For this reason, the chassis was synthesized first and the
+C60 wheels were attached last.</para>
+
+      <para id="id7466396">The future of nanocar wheels will include
+the introduction of more controlled synthesis and variable size. In
+the short term, the Tour Group is investigating the use of carborane
+molecules, spheroid molecules comprised of carbon and boron, to have
+more control over the synthesis. They believe the carborane molecules
+will exhibit more compliant chemistry for their functional needs
+(figure 6). In the long term, the Tour Group is investigating large,
+complex organic molecules that are modeled after bicycle wheels with
+an outer rim and connecting spokes. This bicycle wheel would be made
+predominantly of carbon and allow for variable size depending on the
+length of the spokes and circumference of the rim.</para>
+
+      <figure id="id7466421">
+	<media id="idp3258784" alt=""><image src="../../media/Graphic6" mime-type="image/png"/></media>
+	<caption>Carborane—Possible Wheel. The Carborane molcule is a
+	spheroid molecules comprised of carbon (white) and boron
+	(black). It is studied for its possibilies of serving as a
+	molecular wheel. Image is from Scientific Glass Engineering
+	<link url="http://www.sge.com">website</link></caption>
+      </figure>
+
+<para id="id7466655"><title>Chassis</title> Continuing the analysis of
+the nanocar structure, we will investigate the chassis of the nanocar,
+including aspects of its design and functionality. When designing a
+viable chassis the Tour Group took into consideration three primary
+goals: one, how to physically connect the wheels, two, how to
+facilitate rotational motion of the wheels, and three how to develop a
+structure that allows the orientation of the molecule to be determined
+by STM. Molecular components of the chassis were also considered in
+order to maintain ease of synthesis. In addition to developing and
+understanding nanocar 1, the group also aims to add functionality to
+the chassis.</para> 
+
+      
+      <figure id="id7466526">
+	<media id="idp2864912" alt=""><image src="../../media/Graphic7" mime-type="image/png"/></media> <caption>Structure of
+	nanocar 1.  The various components of the design of nanocar 1
+	are illustrated in this figure including the four
+	buckminsterfullerene wheels, four alkyne axles, and
+	chassis. Picture courtesy of Rice University Office of Media
+	Relations, reprinted with kind permission from Dr. Kevin
+	Kelly.</caption>
+      </figure>
+
+      <para id="id7466677">The Tour Group addressed these goals in
+their design of the chassis in several ways (Figure 7). To physically
+attach the wheels to each other, the Tour Group designed a simple
+four-axle system reminiscent of a car. There are two axles in the
+front and two in the back connected to each other by a central
+shaft. Within the design of the axles, the Tour Group addressed the
+second goal of how to allow free spinning of the wheels. As discussed
+earlier, the axles are comprised of triple bonded carbon atoms, which
+allow for free rotation about the axle, while maintaining linearity
+with the adjacent axle (figure 4). The spinning of these triple bonds
+begins at 30 degrees Kelvin and has been shown to have virtually no
+frictional hindrance on the system. This is optimal for a preliminary
+research into rolling motion because it constrains free variables of
+the system. In other words, because the triple bonds do not add
+meaningful frictional forces to the system above 30 degrees Kelvin,
+all experimental results can be attributed to the chemistry of the
+wheel and its rolling or slipping interactions with the surface it
+operates on. Thirdly, the ease with which the nanocars can be resolved
+with an STM was in part dictated by the structure of the
+chassis. Specifically, the chassis was designed to have a central
+shaft longer than the length of the front or rear axles. The nanocar
+is wider than it is long. This is important in microscopy because it
+allows the observer to note the orientation and therefore the
+direction of translational motion of the nanocar.  As far as the
+synthesis of the molecule, the Tour Group added functional branches to
+the phenyl groups on the axles and central shaft, which suspend the
+molecule in solution and allow for better mixing, better reaction, and
+better yields. These essential goals were addressed to produce a
+working nanocar; however, the goal of adding functionality was not
+described.</para>
+
+
+      <para id="id7464022">While the currently published nanocar is
+devoid of added functionality, the Tour Group is researching additions
+to the chassis to facilitate transport and motility.  Nanotrucks are a
+popular idea and simply refers to a modified nanocar that can carry
+objects. A ‘bed’ could be synthesized into the chassis to carry
+substances ranging from metal ions to oxygen atoms. Of course, the
+object being carried would most likely be specific to the nanotruck
+synthesized and the particular chemistry of its ‘bed’. Furthermore,
+bonding of a metal ion to the chassis of a nanocar would allow for
+interactions with an electric field, providing a mechanism for
+controlled motion. Along this vein, the entire chassis of the nanocar
+could be designed to maintain a dipole moment creating a favored
+orientation in the presence of an electric field. Another form of
+motility that is being pursued is the addition of a light-driven
+single-directional molecular rotor.  This type of rotor would ratchet
+forward through four isomeric states when stimulated by photons. The
+Tour group is looking to append such a motor to their chassis to
+create deliberate and controlled motion. Nanomachines that utilize
+this deliberate and controlled motion will be the next milestone in
+molecular manufacturing.</para>
+
+
+      <para id="id7464077">The last of the three components of the
+nanocar to explore is the surface it operates on. Surface chemistry
+plays an undeniable role in the functionality of the nanocar, and must
+be taken into account in designing the system. First, a surface must
+be found where rolling, not sliding, dynamics are likely. Secondly, a
+surface must be chosen on which observations of the molecule are clear
+and measurable.</para> 
+
+      <para id="id7464091">Gold was chosen as the operation surface
+because it was theorized to be optimal for the aforementioned
+considerations. As it turns out, gold does accommodate these factors
+well. It allows for a special type of chemical interaction between
+itself and C60, known as charge transfer bonding. While we will not go
+into the details of charge transfer bonding, it will be sufficient for
+this textbook to consider the molecular interactions between the C60
+and the gold surface as a type of van der walls forces or weak
+molecular interaction. This type of interaction is optimal for two
+reasons. One, if the bond strengths were any weaker the C60 molecule
+would simply slide like a bearing, as is the case with the C60 on
+graphite sheets. If the bond strengths were any stronger, the C60
+molecule would not move at all. Therefore, the appropriate strength of
+molecular interaction between the wheel and the surface must be found
+to allow for rolling motion. Second, this interaction is temperature
+dependent and can be adjusted to control motion. Temperature
+controlled bonding interactions allow for the observers to cool the
+system down to where the bond strengths are more effective to give the
+STM time to resolve an image. Likewise, the system can be heated to
+allow for movement. Of course there is a range of possible
+temperatures that the system is constrained by, namely the temperature
+of decomposition of the nanocar. Therefore, the surface must be able
+to regulate motion while remaining within the available temperature
+range of the stable molecule. Each of these factors contributes to the
+ease with which a molecule’s motion can be observed. In the next
+section, we focus on this subject as we discuss how the Tour Group
+observed nanocar 1.</para>
+    </section>
+
+    
+    <section id="id7464192">
+      <title>Observations: Rolling versus Sliding</title>
+      
+      <para id="id7464202">Observations beyond the range of the naked
+eye require more deliberate and cautioned interpretation of what is
+observed. Specifically, factual and accurate information must be
+discerned out of various interferences that can lead to
+unsubstantiated conclusions. The Tour group had to surmount these
+uncertainties to conclusively show that the nanocars underwent
+rolling, rather than sliding, translational motion.</para> 
+   
+
+
+	
+	<figure id="idp6856112">
+	  <media id="idp1730080" alt=""><image src="../../media/Figure8.png" mime-type="image/png"/></media>
+	  <caption>Nanocar translational movement across a gold
+	  surface at 200°C. The pivoting of the molecule’s motion
+	  is due to out-of-sync rotation of wheel movement. The
+	  picture indicated path occurred over a minute period (images
+	  captured ever minute by STM).  Reprinted with kind
+	  permission from Dr. Kevin Kelly &lt;picture courtesy of Rice
+	  University Office of Media Relations&gt;.</caption>
+	</figure>
+
+
+	<para id="id7464331">The choice of a gold surface enabled
+temperature dependent adhesion to the surface, and allowed targeted
+observation of specific molecules. In the picture to the left, you see
+several nanocars spread out along the Au(111) surface. As the
+researchers increased the temperature to 200°C, the cars began to
+move at such a rate that they noticeably displaced from their original
+position in a period of one minute (figure 8). This indicates that
+200°C is a viable temperature for imaging nanocars on gold with
+STM. However, imaging of the cars at temperatures above 225°C is
+currently impossible due to the rapid motion of the molecules at that
+temperature. The nanocars are moving too quickly to be imaged by the
+one-minute capture rate of the STM. Once the system was heated to
+300-350°C, the car began to decompose. These observations indicated
+that motion of the nanocars was dependent on temperature.</para> 
+
+	<para id="id7464372">It was also observed that the cars did
+not exclusively undergo translational motion, but also rotated. In the
+image to the right, it can be observed that the cars pivot as they
+move across the frame, changing direction without moving forward.  The
+Tour Group explained this rotation as an inability to synchronize the
+rotation of each wheel.</para>
+
+	<para id="id7464388">The Tour Group also observed
+three-wheeled molecules, or trimers, which they found useful in
+proving rotational motion of the C60 molecules. If the cars’ movement
+were in fact due to rotation, then the trimer would not be able to
+move translationally due to the fact that the three wheels cannot
+rotate in a coordinated manner, that is no two wheels can rotate the
+same parallel plane. This supports the idea that the C60 molecules are
+rotating, as opposed to sliding. To strengthen their assertion, the
+researchers heated a sample of the trimer molecules on the same gold
+surface to 225°C—a temperature at which the four-wheeled molecules
+rapidly moved out of the scanning range of the STM. Upon doing so,
+they observed that the trimers did not undergo significant
+translational motion, and remained within nanometers of their original
+position. This showed that both the wheels and axels of the trimer and
+nanocar allow for rotational motion, therefore substantiating the
+assertion that translational motion of the nanocar is due to
+rolling.</para>
+
+<para id="id7464453">The researchers used an STM to pull the nanocar
+in order to see if there was preferential motion (ie. Due to
+rolling). When the molecules were pulled perpendicular to the axles
+(Figure 9; frame a) the molecule moved in the direction of the
+pull. But, pulling parallel to the axles resulted in no translational
+motion in the direction of the pull (frame b).  Lastly, by pulling
+perpendicular to the axles, the nanocar resumed its forward path
+(frame c).</para> 
+
+
+
+      <figure id="idp2928032">
+	<!-- one of (subfigure media table code) -->
+	<media id="idm6544400" alt=""><image src="../../media/Figure9.png" mime-type="image/png"/></media>
+	<caption>Translational Motion of Pulled Nanocars on Gold
+	  Surface at 200°C.  Frame (a) depicts the movement of a nanocar
+	  pulled perpendicular to its axles. Frame (b) indicates the
+	  inhibited motion that results from pulling parallel to the axles.
+	  Frame (c) is another instance of a pulling force perpendicular to
+	  the axles.  Reprinted with kind permission from Dr. Kevin
+	  Kelly &lt;picture courtesy of Rice University Office of Media
+	  Relations&gt;.</caption>
+      </figure>
+
+      <para id="id7464585">These experiments carried out by the Tour
+Group combined to substantiate the claim that the nanocars were
+rolling on the C60 wheels as opposed to sliding. This observation
+designates the molecule as the first nanocar capable of executing a
+predetermined, engineered motion. These experiments lay down a
+foundation of knowledge on the molecular mechanics of motion.
+Particularly, these experiments conclusively demonstrate rolling
+motion of the C60 on gold surfaces at a given temperature. This marks
+the first step in a greater understanding of molecular motion as it
+applies to molecular manufacturing.</para>
+</section>
+
+
+
+<section id="id7464624">
+      <title>The Future of the Development of Molecular Manipulation</title>
+
+<para id="id7464636">Molecular manipulation as a science has developed
+in steps. Its early steps involved movement of atoms and molecules,
+along with the ability to observe those movements. Later came
+engineered molecular components that carried out predetermined
+functions, such as bearings and axles. At the present, nanocars are an
+example of the developments in motility and function of integrated
+components that serve a unified purpose. But more importantly,
+nanocars are an indicator of developments to come.  They are ushering
+in an era of deliberate and controlled motion at the molecular
+level.</para>
+
+    </section>
+
+
+</content>
+</document>

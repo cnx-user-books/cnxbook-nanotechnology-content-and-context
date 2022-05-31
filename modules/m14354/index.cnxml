@@ -1,0 +1,384 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Brownian Motion</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f59b5e16-0645-4001-992e-042dbc64edfe</md:uuid>
+</metadata>
+<content>
+<note id="idp10323360">"This module was developed as part of a Rice University Class called "<link url="http://frazer.rice.edu/nanotech">Nanotechnology: Content and Context</link>" initially funded by the National Science Foundation under Grant No. EEC-0407237.  It was conceived, researched, written and edited by students in the Fall 2005 version of the class, and reviewed by participating professors."
+</note><para id="id3241888"><figure id="fig1">
+  <media id="idp12079952" alt=""><image src="../../media/Graphic1-5f20.jpg" mime-type="image/jpeg"/></media>
+  <caption>Clarkia pulcgella</caption>
+</figure></para>
+<para id="id6067447"><quote display="inline" class="no-marks">This plant was
+Clarkia pulchella, of which the grains of pollen, taken from
+antherae full grown, but before bursting, were filled with
+particles or granules of unusually large size, varying from nearly
+1/4000th to 1/5000th of an inch in length, and of a figure between
+cylindrical and oblong, perhaps slightly flattened, and having
+rounded and equal extremities. While examining the form of these
+particles immersed in water, I observed many of them very evidently
+in motion; their motion consisting not only of a change of place in
+the fluid, manifested by alterations in their relative positions,
+but also not unfrequently of a change of form in the particle
+itself; a contraction or curvature taking place repeatedly about
+the middle of one side, accompanied by a corresponding swelling or
+convexity on the opposite side of the particle. In a few instances
+the particle was seen to turn on its longer axis. These motions
+were such as to satisfy me, after frequently repeated observation,
+that they arose neither from currents in the fluid, nor from its
+gradual evaporation, but belonged to the particle itself.<cite><cite-title>-Robert Brown, 1828</cite-title></cite></quote></para>
+
+<section id="id5755173">
+<title>Introduction</title>
+<para id="id5948762">The physical phenomena described in the
+excerpt above by Robert Brown, the nineteenth-century British
+botanist and surgeon, have come collectively to be known in his
+honor by the term Brownian motion.</para>
+<para id="id3829684">Brownian motion, a simple stochastic process,
+can be modeled to mathematically characterize the random movements
+of minute particles upon immersion in fluids. As Brown once noted
+in his observations under a microscope, particulate matter such as,
+for example, pollen granules, appear to be in a constant state of
+agitation and also seem to demonstrate a vivid, oscillatory motion
+when suspended in a solution such as water.</para>
+<para id="id2753251">We now know that Brownian motion takes place
+as a result of thermal energy and that it is governed by the
+kinetic-molecular theory of heat, the properties of which have been
+found to be applicable to all diffusion phenomena.</para>
+<para id="id2445838">But how are the random movement of flower
+gametes and a British plant enthusiast who has been dead for a
+hundred and fifty years relevant to the study and to the practice
+of nanotechnology? This is the main question that this module aims
+to address. In order to arrive at an adequate answer, we must first
+examine the concept of Brownian motion from a number of different
+perspectives, among them the historical, physical, mathematical,
+and biological.</para>
+</section>
+<section id="id3229318">
+<title>Objectives</title>
+<para id="id2786090">By the end of this module, the student should
+be able to address the following critical questions.</para>
+<para id="id2786310">- Robert Brown is generally credited to have
+discovered Brownian motion, but a number of individuals were
+involved in the actual development of a theory to explain the
+phenomenon. Who were these individuals, and how are their
+contributions to the theory of Brownian motion important to the
+history of science?</para>
+<para id="id2795207">- Mathematically, what is Brownian motion? Can
+it be described by means of a mathematical model? Can the
+mathematical theory of Brownian motion be applied in a context
+broader than that of simply the movement of particles in
+fluid?</para>
+<para id="id2724884">- What is kinetic-molecular theory, and how is
+it related to Brownian motion? Physically, what does Brownian
+motion tell us about atoms?</para>
+<para id="id4987631">- How is Brownian motion involved in cellular
+activity, and what are the biological implications of Brownian
+motion theory?</para>
+<para id="id2781923">- What is the significance of Brownian motion
+in nanotechnology? What are the challenges posed by Brownian
+motion, and can properties of Brownian motion be harnessed in a way
+such as to advance research in nanotechnology?</para>
+</section>
+<section id="id2707706">
+<title>A Brief History of Brownian Motion</title>
+<para id="id2783187"><figure id="fig2">
+  <media id="idp7098912" alt=""><image src="../../media/Graphic3-26eb.jpg" mime-type="image/jpeg"/></media>
+  <caption>Robert Brown (1773 - 1858)</caption>
+</figure>
+The phenomenon that
+is known today as Brownian motion was actually first recorded by
+the Dutch physiologist and botanist Jan Ingenhousz. Ingenhousz is
+most famous for his discovery that light is essential to plant
+respiration, but he also noted the irregular movement exhibited by
+motes of carbon dust in ethanol in 1784.</para>
+<para id="id2777922">Adolphe Brongniart made similar observations
+in 1827, but the discovery of Brownian motion is generally
+accredited to Scottish-born botanist Robert Brown, even though the
+manuscript regarding his aforementioned experiment with primrose
+pollen was not published until nearly thirty years after
+Ingenhousz’ death.</para>
+<para id="id3388934">At first,
+he attributed the movement of pollen granules in water to the fact
+that the pollen was “alive.” However, he soon observed the same
+results when he repeated his experiment with tiny shards of window
+glass and again with crystals of quartz. Thus, he was forced to
+conclude that these properties were independent of vitality.
+Puzzled, Brown was in the end never able to adequately explain the
+nature of his findings.</para>
+<para id="id3358231">The first person to put forward an actual
+theory behind Brownian motion was Louis Bachelier, a French
+mathematician who proposed a model for Brownian motion as part of
+his PhD thesis in 1900.</para>
+<para id="id3832684">Five years later in 1905, Albert Einstein
+completed his doctoral thesis on osmotic pressure, in which he
+discussed a statistical theory of liquid behavior based on the
+existence of molecules. He later applied his liquid
+kinetic-molecular theory of heat to explain the same phenomenon
+observed by Brown in his paper Investigations on the Theory of the
+Brownian Movement. In particular, Einstein suggested that the
+random movements of particles suspended in liquid could be
+explained as being a result of the random thermal agitation of the
+molecules that compose the surrounding liquid.</para>
+<para id="id2778444">The subsequent observations of Theodor
+Svedberg and Felix Ehrenhaft on Brownian motion in colloids and on
+particles of silver in air, respectively, helped to support
+Einstein’s theory, but much of the experimental work to actually
+test Einstein’s predictions was carried out by French physicist
+Jean Perrin, who eventually won the Nobel Prize in physics in 1926.
+Perrin’s published results of his empirical verification of
+Einstein’s model of Brownian motion are widely credited for finally
+settling the century-long dispute about John Dalton’s theory for
+the existence of atoms.</para>
+</section>
+<section id="id2792611">
+<title>Brownian Motion and Kinetic Theory</title>
+<para id="id2776925">
+<figure id="fig3">
+  <media id="idp1239216" alt=""><image src="../../media/Graphic4b.jpg" mime-type="image/jpeg"/></media><caption>A grain of pollen colliding with water molecules
+moving randomly in all directions as a result of heat
+energy.</caption>
+</figure>
+</para>
+<para id="id5539640">The kinetic theory of matter states that all
+matter is made up of atoms and molecules, that these atoms and
+molecules are in constant motion, and that collisions between these
+atoms and molecules are completely elastic.</para>
+<para id="id2788390">The kinetic-molecular theory of heat involves
+the idea that heat as an entity is manifested simply in the form of
+these moving atoms and molecules. This theory is comprised of the
+following five postulates.</para>
+<list list-type="enumerated" id="id2734462">
+<item>Heat is a form of energy.</item>
+<item>Molecules carry two types of energy: potential and
+kinetic.</item>
+<item>Potential energy results from the electric force between
+molecules.</item>
+<item>Kinetic energy results from the motion of molecules.</item>
+<item>Energy converts continuously between potential energy and
+kinetic energy.</item>
+</list>
+<para id="id2769886">Einstein used the postulates of both theories
+to develop a model in order to provide an explanation of the
+properties of Brownian motion.</para>
+<para id="id2704185">Brownian motion is characterized by the
+constant and erratic movement of minute particles in a liquid or a
+gas. The molecules that make up the fluid in which the particles
+are suspended, as a result of the inherently random nature of their
+motions, collide with the larger suspended particles at random,
+making them move, in turn, also randomly. Because of kinetics,
+molecules of water, given any length of time, would move at random
+so that a small particle such as Brown’s pollen would be subject to
+a random number of collisions of random strength and from random
+directions.</para>
+<para id="id2743309">Described by Einstein as the “white noise” of
+random molecular movements due to heat, Brownian motion arises from
+the agitation of individual molecules by thermal energy. The
+collective impact of these molecules against the suspended particle
+yields enough momentum to create movement of the particle in spite
+of its sometimes exponentially larger size.</para>
+<para id="id2595495">According to kinetic theory, the temperature
+at which there is no movement of individual atoms or molecules is
+absolute zero (-273 K). As long as a body retains the ability to
+transfer further heat to another body – that is, at any temperature
+above absolute zero – Brownian motion is not only possible but also
+inevitable.</para>
+</section>
+<section id="id2720723">
+<title>Brownian Motion as a Mathematical Model</title>
+<para id="id2777724">The Brownian motion curve is considered to be
+the simplest of all random motion curves. In Brownian motion, a
+particle at time t and position p will make a random displacement r
+from its previous point with regard to time and position. The
+resulting distribution of r is expected to be Gaussian (normal with
+a mean of zero and a standard deviation of one) and to be
+independent in both its x and y coordinates.</para>
+<para id="id3818518">Thus, in summary a Brownian motion curve can
+be defined to be a set of random variables in a probability space
+that is characterized by the following three properties.</para>
+<para id="id3383677">For all time h &gt; 0, the displacements X(t+h) –
+X(t) have Gaussian distribution.</para>
+<para id="id3066713">The displacements X(t+h) – X(t), 0 &lt; t1
+&lt; t2 &lt; … tn, are independent of previous
+distributions.</para>
+<para id="id2596666">The mean displacement is zero.</para>
+<para id="id2596670"><figure id="fig4"><media id="idp8065312" alt=""><image src="../../media/Graphic5-0e68.png" mime-type="image/png"/></media><caption>A Brownian motion curve – time vs.x-coordinate of walk. </caption>
+</figure> 
+From a resulting
+curve, it is evident that Brownian motion fulfills the conditions
+of the Markov property and can therefore be regarded as Markovian.
+In the field of theoretical probability, a stochastic process is
+Markovian if the conditional distribution of future states of the
+process is conditionally independent of that of its past states. In
+other words, given X(t), the values of X before time t are
+irrelevant in predicting the future behavior of X.</para>
+<para id="id2728812">Moreover, the trajectory of X is continuous,
+and it is also recurrent, returning periodically to its origin at
+0. Because of these properties, the mathematical model for Brownian
+motion can serve as a sophisticated random number generator.
+Therefore, Brownian motion as a mathematical model is not exclusive
+to the context of random movement of small particles suspended in
+fluid; it can be used to describe a number of phenomena such as
+fluctuations in the stock market and the evolution of physical
+traits as preserved in fossil records.</para>
+<para id="id2404351">When the simulated Brownian trajectory of a
+particle is plotted onto an x-y plane, the resulting curve can be
+said to be self-similar, a term that is often used to describe
+fractals. The idea of self-similarity means that for every segment
+of a given curve, there is either a smaller segment or a larger
+segment of the same curve that is similar to it. Likewise, a
+fractal is defined to be a geometric pattern that is repeated at
+indefinitely smaller scales to produce irregular shapes and
+surfaces that are impossible to derive by means of classical
+geometry.</para>
+<para id="id3355426">
+<!--Sorry, this media type is not supported.-->Figure 5. The
+simulated trajectory of a particle in Brownian motion beginning at
+the origin (0,0) on an x-y plane after 1 second, 3 seconds, and 10
+seconds.
+<!--Sorry, this media type is not supported.-->
+<!--Sorry, this media type is not supported.-->
+<!--Sorry, this media type is not supported.-->Because of the
+fractal nature of Brownian motion curves, the properties of
+Brownian motion can be applied to a wide variety of fields through
+the process of fractal analysis. Many methods for generating
+fractal shapes have been suggested in computer graphics, but some
+of the most successful have been expansions of the random
+displacement method, which generates a pattern derived from
+properties of the fractional Brownian motion model. Algorithms and
+distribution functions that are based upon the Brownian motion
+model have been used to develop applications in medical imaging and
+in robotics as well as to make predictions in market analysis, in
+manufacturing, and in decision making at large.</para>
+</section>
+<section id="id2787963">
+<title>Rectified Brownian Motion</title>
+<para id="id2404231"><figure id="fig6"><media id="idp674064" alt=""><image src="../../media/Graphic6-ccfd.jpg" mime-type="image/jpeg"/></media><caption>A random Brownian “walk” method fractal.</caption>
+</figure> In recent years, biomedical research has shown that
+Brownian motion may play a critical role in the transport of
+enzymes and chemicals both into and out of cells in the human
+body.</para>
+<para id="id2785584">Within the cells of the body, intracellular
+microtubule-based movement is directed by the proteins kinesin and
+dynein. The long-accepted explanation for this transport action is
+that the kinesins, fueled by energy provided by ATP, use their two
+appendage-like globular heads to “walk” deliberately along the
+lengths of the microtubule paths to which they are attached.
+Kinesin, as a motor protein, has conventionally been understood to
+allow for the movement of objects within cells by harnessing the
+energy released from either the breaking of chemical bonds or the
+energy released across a membrane in an electrochemical gradient.
+The kinesin proteins thus were believed to function as cellular
+“tow trucks” that pull chemicals or enzymes along these microtubule
+pathways.</para>
+<para id="id3253832">New research, however, posits that what
+appeared to be a deliberate towing action along the microtubules is
+actually a result of random motion controlled by ATP-directed
+chemical switching commands. It is now argued that kinesins utilize
+rectified Brownian motion (converting this random motion into a purposeful unidirectional one).</para>
+<para id="id2729718">We begin with a kinesin protein with both of
+its globular heads chemically bound to a microtubule path.
+According to the traditional power stroke model for motor proteins,
+the energy from ATP hydrolysis provides the impetus to trigger a
+chemo-mechanical energy conversion, but according to the rectified
+Brownian motion model, the energy released by ATP hydrolysis causes
+an irreversible conformational switch in the ATP binding protein,
+which in turn results in the release of one of the motor protein
+heads from its microtubule track. Microtubules are composed of
+fibrous proteins and include sites approximately 8 nm apart where
+kinesin heads can bind chemically. This new model suggests that the
+unbound kinesin head, which is usually 5-7 nm in diameter, is moved
+about randomly because of Brownian motion in the cellular fluid
+until it by chance encounters a new site to which it can bind.
+Because of the structural limits in the kinesin and because of the
+spacing of the binding sites on the microtubules, the moving head
+can only reach one possible binding site – that which is located 8
+nm beyond the bound head that is still attached to the microtubule.
+Thus, rectified Brownian motion can only result in moving the
+kinesin and its cargo 8 nm in one direction along the length of the
+microtubule. Once the floating head binds to the new site, the
+process begins again with the original two heads in interchanged
+positions. The mechanism by which random Brownian motion results in
+movement in only one pre-determined direction is commonly referred
+to a Brownian ratchet.</para>
+<para id="id2782628">Ordinarily, Brownian motion is not considered
+to be purposeful or directional on account of its sheer randomness.
+Randomness is generally inefficient, and though in this case only
+one binding site is possible, the kinesin head can be likened to
+encounter that binding site by “trial and error.” For this reason,
+Brownian motion is normally thought of as a fairly slow process;
+however, on the nanometer scale, Brownian motion appears to be
+carried out at a very rapid rate. In spite of its randomness,
+Brownian motion at the nanometer scale allows for rapid exploration
+of all possible outcomes.</para>
+</section>
+<section id="id6594404">
+<title>Brownian Motion and Nanotechnology</title>
+<para id="id6637115"><figure id="fig7">
+  <media id="idp6881552" alt=""><image src="../../media/Graphic2-a75e.jpg" mime-type="image/jpeg"/></media>
+  <caption>An artist’s rendition of a tourist
+submarine, shrunk to cellular size, in Asimov’s Fantastic Voyage.</caption>
+</figure>If
+one were to assume that Brownian motion does not exercise a
+significant effect on his or her day-to-day existence, he or she,
+for all practical purposes, would be correct. After all, Brownian
+motion is much too weak and much too slow to have major (if any)
+consequences in the macro world. Unlike the fundamental forces of,
+for instance, gravity or electromagnetism, the properties of
+Brownian motion govern the interactions of particles on a minute
+level and are therefore virtually undetectable to humans without
+the aid of a microscope. How, then, can Brownian motion be of such
+importance?
+</para>
+<para id="id3365664">As things turn out, Brownian motion is one of
+the main controlling factors in the realm of nanotechnology. When one hears about the concept of
+nanotechnology, tiny robots resembling scaled down R2D2-style
+miniatures of the larger ones most likely come to mind.
+Unfortunately, creating nano-scale machines will not be this easy.
+The nano-ships that are shrunk down to carry passengers through the
+human bloodstream in Asimov’s Fantastic Voyage, for example, would
+due to Brownian motion be tumultuously bumped around and flexed by
+the molecules in the liquid component of blood. If, miraculously,
+the forces of Brownian motion did not break the Van der Waals bonds
+maintaining the structure of the vessel to begin with, they would
+certainly make for a bumpy voyage, at the least.</para>
+<para id="id2929292">Eric Drexler’s vision of rigid nano-factories
+creating nano-scale machines atom by atom seems amazing. While it
+may eventually be possible, these rigid, scaled-down versions of
+macro factories are currently up against two problems: surface
+forces, which cause the individual parts to bind up and stick
+together, and Brownian motion, which causes the machines to be
+jostled randomly and uncontrollably like the nano-ships of science
+fiction.</para>
+<para id="id2929296">As a consequence, it would seem that a basic
+scaling down of the machines and robots of the macro world will not
+suffice in the nano world. Does this spell the end for
+nanotechnology? Of course not. Nature has already proven that this
+realm can be conquered. Many organisms rely on some of the
+properties of the nano world to perform necessary tasks, as many
+scientists now believe that motor proteins such as kinesins in
+cells rely on rectified Brownian motion for propulsion by means of
+a Brownian ratchet. The Brownian ratchet model proves that there
+are ways of using Brownian motion to our advantage.</para>
+<para id="id2795120">Brownian motion is not only be used for
+productive motion; it can also be harnessed to aid biomolecular
+self-assembly, also referred to as Brownian assembly. The
+fundamental advantage of Brownian assembly is that motion is
+provided in essence for free. No motors or external conveyance are
+required to move parts because they are moved spontaneously by
+thermal agitation. Ribosomes are an example of a self-assembling
+entity in the natural biological world. Another example of Brownian
+assembly occurs when two single strands of DNA self-assemble into
+their characteristic double helix. Provided simply that the
+required molecular building blocks such as nucleic acids, proteins,
+and phospholipids are present in a given environment, Brownian
+assembly will eventually take care of the rest. All of the
+components fit together like a lock and key, so with Brownian
+motion, each piece will randomly but predictably match up with
+another until self-assembly is complete.</para>
+<para id="id2779446">Brownian assembly is already being used to
+create nano-particles, such as buckyballs. Most scientists view
+this type of assembly to be the most promising for future
+nano-scale creations.</para>
+</section>
+</content>
+</document>

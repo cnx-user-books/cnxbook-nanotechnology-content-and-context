@@ -1,0 +1,434 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>The Early History of Nanotechnology</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>025b69ff-13ae-421b-8ae1-25734ef7de73</md:uuid>
+</metadata>
+<content>
+
+
+    <note id="idm1696688">"This module was developed as part of a Rice University Class called "<link url="http://frazer.rice.edu/nanotech">Nanotechnology: Content and Context</link>" initially funded by the National Science Foundation under Grant No. EEC-0407237.  It was conceived, researched, written and edited by students in the Fall 2005 version of the class, and reviewed by participating professors."
+    </note>
+
+      <section id="idp6514912">
+	<title>Introduction</title>
+<para id="id13234822">Nanotechnology is an essentially modern
+scientific field that is constantly evolving as commercial and
+academic interest continues to increase and as new research is
+presented to the scientific community. The field’s simplest roots
+can be traced, albeit arguably, to 1959 but its primary development
+occurred in both the eighties and the early nineties. In addition
+to specific scientific achievements such as the invention of the
+STM, this early history is most importantly reflected in the
+initial vision of molecular manufacturing as it is outlined in
+three important works. Overall, an understanding of development and
+the criticism of this vision is integral for comprehending the
+realities and potential of nanotechnology today.</para>
+      </section>
+
+      <section id="idp9195168">
+	<title>Richard Feynman: There's Plenty of Room at theBottom, 1959</title>
+  
+
+
+
+<figure id="id10864007">
+<media id="idp8773392" alt=""><image src="../../media/Graphic1-3a98.png" mime-type="image/png"/></media>
+	<caption>Richard Feynman, From <link url="http://en.wikipedia.org/wiki/Richard_Feynman">Wikipedia</link></caption>
+</figure>
+      <para id="feynman1">"But I am not afraid to consider the final question as to
+whether, ultimately---in the great future---we can arrange the
+atoms the way we want; the very atoms, all the way down!" -Richard
+	Feynman, <cite><cite-title>There's Plenty of Room at the Bottom</cite-title></cite></para>
+
+      <para id="para2">The first time the idea of nanotechnology was
+introduced was in 1959, when Richard Feynman, a physicist at Caltech,
+gave a talk called "There's Plenty of Room at the Bottom." Though he
+never explicitly mentioned "nanotechnology," Feynman suggested that it
+will eventually be possible to precisely manipulate atoms and
+molecules. Moreover, in an even more radical proposition, he thought
+that, in principle, it was possible to create "nano-scale" machines,
+through a cascade of billions of factories. According to the
+physicist, these factories would be progressively smaller scaled
+versions of machine hands and tools. He proposed that these tiny
+"machine shops" would then eventually be able to create billions of
+tinier factories.[1] In these speculations, he also suggested that
+there are various factors, which uniquely affect the nano-scale
+level. Specifically, he suggested that as the scale got smaller and
+smaller, gravity would become more negligible, while both Van Der
+Waals attraction and surface tension would become very important. In
+the end, Feynman's talk has been viewed as the first academic talk
+that dealt with a main tenet of nanotechnology, the direct
+manipulation of individual atoms (molecular manufacturing).[2]</para>
+
+<para id="id13132221">"The revolutionary Feynman vision launched the
+global nanotechnology race."-Eric Drexler</para>
+
+      <para id="para3"> Hence, long before STMs and atomic force
+microscopes were invented Feynman proposed these revolutionary ideas
+to his peers. As demonstrated in his quote (above), he chose to deal
+with a "final question" that wasn't fully realized till the eighties
+and nineties. Ultimately then, it was during these two decades, when
+the term "nanotechnology" was coined and researchers, starting with
+Eric Drexler, built up this field from the foundation that Feynman
+constructed in 1959. However, some such as Chris Toumey minimize the
+importance of Feynman in the establishment of the intellectual
+groundwork for nanotechnology.[3] Instead, using evidence from its
+citation history, Toumey sees "There's Plenty of Room at the Bottom"
+as a "founding myth" that served only to directly influence Drexler
+rather than the other important scientists, who affected the future
+development of nanotechnology. Nevertheless, though the ultimate
+effect of Feynman's talk is debatable, it is certain that this work
+directly influenced Drexler's own research, which thus indirectly
+influenced nanotechnology as a whole.</para> 
+    </section>
+      <section id="idp5521984">
+	<title>Eric
+Drexler: "Molecular Manufacturing," 1981</title>
+      
+<figure id="id15690652">
+<media id="idp30720" alt=""><image src="../../media/Graphic2.png" mime-type="image/png"/></media>
+	<caption>Eric Drexler, from drexler's <link url="http://e-drexler.com/p/idx04/00/0404drexlerBioCV.html"/>website</caption>
+</figure>
+
+      <para id="para4">In 1979, Eric Drexler encountered Feynman's
+talk on atomic manipulation and "nano-factories." The Caltech
+physicist's ideas inspired Drexler to put these concepts into motion
+by expanding Feynman's vision of molecular manufacturing with
+contemporary developments in understanding protein function. From this
+moment, Drexler's primary goal was to build upon the physicist's
+revolutionary foundation. As a result, though the term was yet to be
+coined, the field of nanotechnology was created.[4] </para>
+
+      
+      
+	<figure id="id7606165">
+	  <media id="idp8176848" alt=""><image src="../../media/Graphic3-4d56.png" mime-type="image/png"/></media> <caption>Figure
+	    3-Foresight Institute, &lt;http://foresight.org&gt;
+	  </caption>
+
+	</figure>
+
+      <para id="para5">In 1981, Drexler published his first article on
+the subject in the prestigious scientific journal, <cite><cite-title>Proceedings
+of the National Academy of Sciences</cite-title></cite>. Titled "Molecular
+engineering: An approach to the development of general capabilities
+for molecular manipulation," Drexler's publication essentially
+expanded the idea of molecular manufacturing by integrating modern
+scientific ideas with Feynman's concepts.[5] Hence, he established his
+own vision of molecular manufacturing in this paper. Specifically, in
+his abstract, he discusses the possibility of molecular manufacturing
+as a process of fabricating objects with specific atomic
+specifications using designed protein molecules. He suggests that this
+would inevitably lead to the design of molecular machinery that would
+be able to position reactive groups with atomic precision.[6] Thus,
+Drexler states that molecular manufacturing and the construction of
+"nano-machines" is a product of an analogous relationship "between
+features of natural macromolecules and components of existing
+machines."[7] In addition, Drexler includes a table that outlines by
+function the molecular equivalents to macroscopic technologies. For
+example, he believed that bearings, which provide support for moving
+parts, are analogous to Sigma bonds. Overall, generating some interest
+in the scientific community, this publication presented Drexler's
+initial vision of molecular manufacturing, which was ultimately
+influenced by Feynman's talk.  As a result, the field of
+nanotechnology continued to evolve, for Drexler took these concepts
+and expanded their potential in an accessible format through his now
+infamous book, <cite><cite-title>Engines of Creation: The Coming Era of
+Nanotechnology.</cite-title></cite>
+      </para>
+    </section>
+
+    <section id="idp10532592">
+      <title>Eric Drexler: Engines of Creation, 1986</title>
+
+<figure id="id4160040">
+<media id="idp10344608" alt=""><image src="../../media/Graphic4-4faa.png" mime-type="image/png"/></media>
+	<caption>Institute for Molecular Manufacturing, &lt;http://www.imm.org/&gt;</caption>
+</figure>
+      
+      <para id="id6916419"> "Molecular Assemblers will bring a
+revolution without parallel since the development of ribosomes, the
+primitive assemblers in the cell. The resulting nanotechnology can
+help life spread beyond Earth - a step without parallel since life
+spread beyond the seas; it can let our minds renew and remake our
+bodies - a step without any parallel at all."-Eric Drexler Engines of
+Creation</para>
+
+      <para id="para6"> In this book, Drexler is credited as being the
+first person to use the word nanotechnology to describe engineering on
+the billionth of a meter scale. Though the term was used by Norio
+Taniguchi in 1974, Taniguchi's use of the word referred to
+nanotechnology in a different context.[8] Published in 1986,
+<cite><cite-title>Engines of Creation</cite-title></cite> served to present Drexler's vision of
+molecular manufacturing that he outlined in his 1981 paper.
+Essentially, Drexler presented, albeit simplistically, that if atoms
+are viewed as small marbles, then molecules are a tight collection of
+these marbles that "snap" together, depending on their chemical
+properties. When snapped together in the right way, these molecules
+could represent normal-scaled tools such as motors and gears. Drexler
+suggested that these "atomic" tools and machines would operate just as
+their larger counterparts do. The moving parts of the nano-machine
+(see Figure 4, Drexler's "differential gear") would be formed by many
+atoms that are held together by their own atomic bonds. Ultimately, in
+Engines of Creation, Drexler envisioned that these would then be used
+as "assemblers" that could put together atoms into a desired shape.[9]
+Applying this simplistic vision of molecular manufacturing, Drexler,
+in theory, presented that coal can be turned into diamond and computer
+chips can be created from sand. These processes would occur by using
+these fabricated atomic tools to reorganize the atoms that make up
+these materials. Most importantly, from these principles, he
+sensationally proclaimed in his book that nanotechnology, through the
+molecular manufacturing of "universal assemblers," would revolutionize
+everything from biological science to space travel (see quote
+above). Thus, with both his 1981 publication and his 1986 book,
+Drexler presented nanotechnology as a scientific field that solely
+revolved around his own expanded vision of Feynman's molecular
+manufacturing.[10]</para>
+
+
+<figure id="id15663909">
+<media id="idp7165648" alt=""><image src="../../media/Graphic5-3ed2.png" mime-type="image/png"/></media>
+	<caption>From Howard Lovy's Nanobot blog: http://nanobot.blogspot.com/</caption>
+</figure>
+
+
+<para id="id15195352"> In addition, Engines of Creation also cautions
+about the possible dangers that accompany this kind of
+technology. Primarily, Drexler warns of the "gray goo," an
+amalgamation of self-replicating nanobots that would consume
+everything in the universe in order to survive (see Figure 5).</para>
+
+<para id="id15732342">This book was highly influential as it brought
+nanotechnology to the mainstream scientific community for the first
+time. Though his theories of "gray goo" and molecular manufacturing
+were later criticized, there is no question that Drexler's work had a
+profound impact on the establishment of nanotechnology as a scientific
+field.</para>
+    </section>
+
+    <section id="idm1006448">
+      <title>The Aftermath of Engines of Creation: Impact and
+Criticism</title>
+
+<para id="id6893308">Directly after the publication of this book,
+Drexler founded the Foresight Institute, whose stated goal is to
+"ensure the beneficial implementation of nanotechnology."[11] Drexler
+used this "institute" as a way to present his vision of molecular
+manufacturing that he vividly illustrated in Engines of
+Creation. Thus, this "institute" was used to further propagate
+research, through his influential yet highly controversial depiction
+of nanotechnology and its future.</para>
+
+<figure id="id10638028">
+<media id="idm325056" alt=""><image src="../../media/Graphic6-ad2b.png" mime-type="image/png"/></media>
+	<caption>Richard Smalley</caption>
+</figure>
+
+      <para id="id15727314">As a result, due to the publicity generated by
+both Drexler's work and institute, scientists from all over the world
+began to have a vested interest in the field of nanotechnology. Dr.
+Richard Smalley (Figure 6), for example, specifically said that he was
+a "fan of Eric" and that <cite><cite-title>Engines of Creation</cite-title></cite> influenced
+him to pursue nanotechnology. Moreover, he even gave Drexler's book to
+the top decision-makers at Rice University. Though criticizing Drexler
+and his work in future years, Smalley, like other scientists, were
+intrigued by this book and proceeded to do research in this new and
+evolving field.[12] </para>
+
+      <para id="id6163420">Drexler's vision of molecular manufacturing
+and assemblers has become, on one hand, a scientific goal, through the
+Foresight Institute, and, on the other, a controversial issue. Some
+scientists have criticized Drexler's visions as impossible and
+harmful. Richard Smalley has led this movement against Drexler's
+almost sensationalist vision of molecular manufacturing. In their open
+debate in 2003, Smalley writes almost scathingly, "you cannot make
+precise chemistry occur as desired between two molecular objects with
+simple mechanical motion along a few degrees of freedom in the
+assembler-fixed frame of reference."[13] Furthermore, he also
+chastises Drexler for his "gray goo scenario" saying, "you and the
+people around you have scared our children---while our future in the
+real world will be challenging and there are real risks, there will be
+no such monster as the self-replicating mechanical nanobot of your
+dreams."[14] In contrast to Drexler's radical vision, Smalley
+realistically argued that nanotechnology could be used on a much more
+practical and attainable level. As a result, due to the onset of
+academic criticism from scientists such as Richard Smalley,
+nanotechnology evolved from Drexler's vision of molecular
+manufacturing to a broad field that encompassed both practical
+manufacturing and non-manufacturing activities. Chemistry, materials
+science, and molecular engineering were now all included in this
+science.</para>
+
+    </section>
+
+    <section id="idp7901888">
+      <title>Important Successes in Nanotechnology</title>
+ 
+
+      <para id="id28634370">In addition to the criticism of Drexler's
+vision of molecular manufacturing, three important developments that
+were independent of Drexler's paper helped turn nanotechnology into
+this broad field, today. First, the Scanning Tunneling Microscope
+(STM) was invented by Binnig and Rohrer in 1981. 
+
+	<figure id="id12593880">
+	  <media id="idp6939504" alt=""><image src="../../media/Graphic7-f162.png" mime-type="image/png"/></media>
+	  <caption>1981-Invention of STM, Image From Steven Sibener,
+	  &lt;http://sibener-group.uchicago.edu/facilities.html&gt;</caption>
+	</figure>
+
+With this technology, individual atoms could be clearly identified for
+the first time. Despite its limitations (only conducting materials),
+this breakthrough was essential for the development of the field of
+nanotechnology because what had been previously concepts were now
+within view and testable. Some of these limitations in microscopy were
+eliminated through the 1986 invention of the Atomic Force Microscope.
+
+	<figure id="id13023999">
+	  <media id="idp13164304" alt=""><image src="../../media/Graphic9.jpg" mime-type="image/jpeg"/></media>
+	  <caption>1986-Invention of AFM, image from Mike Tiner,
+	  &lt;http://www.cnm.utexas.edu/AFM.HTM&gt; </caption>
+	</figure>
+
+
+Using contact to create an image, this microscope could image
+non-conducting materials such as organic molecules. This invention was
+integral for the study of carbon buckyballs, discovered at Rice in 1985-6.[15]
+
+
+	<figure id="id3034081">
+	  <media id="idp13036784" alt=""><image src="../../media/Graphic8-1b6f.jpg" mime-type="image/jpeg"/></media>
+	  <caption>1985-Buckyball discovered at Rice University by
+	  Smalley et al.  Image from Stephen Bond,
+	  &lt;http://femto.cs.uiuc.edu/~sbond/reports/c60c60qm1/buckyball.jpg&gt;</caption>
+	</figure>
+
+
+Ultimately, with these two achievements, nanotechnology could develop
+through the scientific method rather than through the conceptual and
+thus untestable visions of Drexler.</para>
+
+
+      <para id="id10413507">This overall trend created by advancements in
+microscopy is illustrated through Don Eigler's revolutionary
+"stunt" at IBM. Here, he manipulated individual Xenon atoms on a
+Nickel surface to form the letters "IBM." 
+
+	<figure id="id6309020">
+	  <media id="idp5231216" alt=""><image src="../../media/Graphic10.jpg" mime-type="image/jpeg"/></media>
+	  <caption>1989-First atomic manipulation at IBM by Don
+	  Eigler. Figure 10-Almaden Research Center,
+	  &lt;http://www.almaden.ibm.com/vis/stm/atomo.html&gt;
+	  </caption>
+	</figure>
+	
+With the microscopy technology that was invented in the early to mid
+eighties, Eigler and his research team advanced the field of
+nanotechnology by seeking to simply manipulate atoms. Thus, while
+Drexler was conceiving sensationalized possibilities of "universal
+assemblers," Eigler focused his nanotech research on the realistic and
+attainable level that Smalley presented in his argument with
+Drexler. From this "stunt," nanotech research followed Eigler's path
+and therefore strayed away from Drexler's original vision.  Because
+nanotechnology was viewed at this level, the field soon encompassed
+both practical manufacturing and non-manufacturing activities as
+Drexler's ideas were put aside.</para> 
+    </section>
+
+    <section id="idp6775696">
+      <title>Conclusion</title> 
+
+      <para id="id5982646">While nanotechnology came into existence
+through Feynman's and then Drexler's vision of molecular
+manufacturing, the field has evolved in the 21st century to largely
+include research in chemistry and materials science as well as
+molecular engineering. As evidenced by Smalley's debate, this
+evolution is partly a response to the criticism of Drexler's views in
+both <cite><cite-title>Engines of Creation</cite-title></cite> and the Foresight
+Institute. Thus, in regards to the development of nanotechnology in
+the present, Drexler's vision can be viewed as an indirect influence
+through the sheer interest and subsequent criticism that he created in
+the field. As Toumey argues, Drexler and therefore Feynman did not
+have a direct role in the three most important breakthroughs in
+nanotechnology, the invention of the STM, the invention of the AFM,
+and the first manipulation of atoms [16].  Instead, Drexler, through
+Molecular Manufacturing and Engines of Creation, brought scientists
+from all over the world to the brand new field. Consequently,
+criticism for Drexler's vision was established by researchers such as
+Dr. Smalley. Through this reevaluation and the parallel breakthroughs
+in microscope technology, nanotechnology as a scientific field was
+established in a way that diverged from Drexler's original vision of
+molecular manufacturing. This divergence is illustrated through the
+contrasting goals of the government's National Nanotechnology
+Initiative (see "Important Links") and Drexler's Foresight
+Institute. As a result, a thorough grasp of this early history is
+integral to understanding the development and definition of both the
+realities and potential of nanotechnology, today. Whereas Drexler
+created interest in the field but also sensationally outlined a
+nanotech revolution, researchers around the world have brought the
+nanotechnology that Drexler first envisioned to a more realistic and
+attainable level. All in all, today, the goal for nanotech research is
+not to immediately create billions of assemblers that will
+revolutionize our world but rather to explore the manufacturing and
+non-manufacturing aspects of nanotechnology, through a combination of
+chemistry, materials science, and molecular engineering.17Though
+places such as Drexler's Foresight Institute remain, academic
+institutions such as Rice University stay away from Drexler's
+sensationalized vision of nanotechnology as molecular
+manufacturing. This divergence is epitomized by the contrasting goals
+of the U.S government's National Nanotechnology Initiative and the
+Foresight Institute.</para>
+
+    </section>
+
+
+
+    <section id="idp8116048">
+      <title>Discussion Questions</title>
+
+<list list-type="enumerated" id="id16323280">
+<item>What is your take on Toumey's argument against the influence
+of Feynman's vision? Do you believe that he has it right or do you
+think that Feynman had a more direct influence on future
+discoveries? Is his evidence enough?</item>
+</list>
+<list list-type="enumerated" id="id10061020">
+<item>In his 2004 paper in the <cite><cite-title>Institute of Physics journal
+Nanotechnology</cite-title></cite>, Drexler slay the grey goo myth he created in
+Engines of Creation. Is this indicative of a general trend of errors
+in Drexler's sensationalized vision of molecular manufacturing? Or is
+this an honest miscalculation in an otherwise plausible theory?</item>
+</list>
+    </section>
+
+
+    <section id="idp5917280">
+      <title>References</title>
+ 
+      <para id="para-1">[1] Wikipedia, There's Plenty of Room at the Bottom, &lt;http://en.wikipedia.org/wiki/Plenty_of_Room_at_the_Bottom&gt;</para>
+
+      <para id="para-2">[2]Richard Feynman, There's Plenty of Room at the Bottom, Zyvex, &lt;http://www.zyvex.com/nanotech/feynman.html&gt;</para>
+
+      <para id="para-3">[3]Chris Toumey, Apostolic Succession, &lt;http://pr.caltech.edu/periodicals/EandS/articles/LXVIII1_2/Feynman.pdf&gt;</para>
+
+      <para id="para-4">[4]Wikipedia, Eric Drexler, &lt;http://en.wikipedia.org/wiki/K._Eric_Drexler&gt;</para>
+      <para id="para-5">[5] Source?</para>
+
+      <para id="para-6">[6]Eric Drexler, Molecular Manufacturing, &lt;http://www.imm.org/PNAS.html&gt;</para>
+
+      <para id="para-7">[7] Ibid.</para>
+      <para id="para-8">[8] Wikipedia, Eric Drexler, &lt;http://en.wikipedia.org/wiki/K._Eric_Drexler&gt;</para>
+      <para id="para-9">[9]Michael Berry, The Creator,  &lt;http://www.sff.net/people/mberry/nano.htm&gt;</para>
+      <para id="para-10">[10] Ibid.</para>
+      <para id="para-11">[11] Foresight Institute, About the Foresight Institute, &lt;http://www.foresight.org/about/index.html&gt; </para>
+      <para id="para-12">[12] Chris Toumey, Apostolic Succession, &lt;http://pr.caltech.edu/periodicals/EandS/articles/LXVIII1_2/Feynman.pdf&gt;</para>
+      <para id="para-13">[13] Buam, Rudy. Nanotechnology: Drexler and Smalley make the case for and against ‘molecularassemblers.' Point Counterpoint, Vol.81, number 48, pp.37-41. Chemical and Engineering news. 2003.</para>
+
+      <para id="para-14">[14] Ibid</para>
+
+      <para id="para-15">15Foresight Institute, &lt;http://www.foresight.org/UTF/Unbound_LBW/chapt_4.html&gt; </para>
+
+      <para id="para-16">[16] Chris Toumey, Apostolic Succession, &lt;http://pr.caltech.edu/periodicals/EandS/articles/LXVIII1_2/Feynman.pdf&gt;</para>
+    </section>
+
+</content>
+</document>
